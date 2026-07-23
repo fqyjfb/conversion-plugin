@@ -1,0 +1,16 @@
+{
+  "id": "plugin-conversion",
+  "name": "单位换算",
+  "version": "1.0.0",
+  "description": "多功能单位换算工具，支持长度、温度、重量、体积等实时转换",
+  "author": "ToolBox Team",
+  "entry": "dist/index.js",
+  "icon": "ArrowRightLeft",
+  "iconUrl": "https://raw.githubusercontent.com/fqyjfb/toolbox-plugins-registry/main/icons/conversion-plugin/icon.png",
+  "color": "#059669",
+  "textColor": "#ffffff",
+  "categories": ["工具"],
+  "tags": ["conversion", "unit", "length", "temperature", "weight", "volume"],
+  "githubRepo": "fqyjfb/conversion-plugin",
+  "isBeta": false
+}
