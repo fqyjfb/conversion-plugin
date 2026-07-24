@@ -1,6 +1,6 @@
 {
   "name": "plugin-conversion",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "多功能单位换算工具，支持长度、温度、重量、体积等实时转换",
   "main": "dist/index.js",
   "type": "module",
